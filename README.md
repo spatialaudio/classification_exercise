@@ -16,6 +16,7 @@ for [jupyter notebooks](https://jupyter.org/)
     * sklearn
 3. Clone the repository
 4. Open the jupyter notebook [train_model.ipynb](train_model.ipynb) and run all cells
+5. Take a look at the examples at the end of the notebook
 
 
 

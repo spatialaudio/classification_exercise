@@ -5,7 +5,7 @@ This repository contains an example for multiclass classification as introductio
 
 ## Getting Started
 
-1. Install a Python 3.7 environment on your computer, e.g. [Anaconda](https://www.anaconda.com), including support 
+1. Install a Python 3.7 environment on your computer, e.g. [Anaconda](https://www.anaconda.com), including support
 for [jupyter notebooks](https://jupyter.org/)
 2. Check if the following Python packages are installed
     * numpy
@@ -13,7 +13,7 @@ for [jupyter notebooks](https://jupyter.org/)
     * [pysoundfile](https://pysoundfile.readthedocs.io/en/latest/)
     * tensorflow
     * keras
-    * sklearn
+    * scikit-learn
 3. Clone the repository
 4. Open the jupyter notebook [train_model.ipynb](train_model.ipynb) and run all cells
 5. Take a look at the examples at the end of the notebook
